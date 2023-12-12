@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently **actively seeking job opportunities
 - 🤝 I'm open to collaboration and always **eager to learn from others** in the developer community.
 - 📫 Let's connect! Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/sarahbelledent/).
 
-## Tech Stack `#0969DA`
+## Tech Stack
 
 These are some of the technologies I'm familiar with:
 
