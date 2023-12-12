@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm currently **actively seeking job opportunities
 
 - 🔭 I’m currently working on **building and refining my web development skills.**
 - 🌐 I specialize in both **front-end and back-end development.**
-- 💡 I love **problem-solving** and tackling coding challenges.**
+- 💡 I love **problem-solving** and tackling **coding challenges.**
 - 🤝 I'm open to collaboration and always **eager to learn from others** in the developer community.
 - 📫 Let's connect! Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/sarahbelledent/).
 
