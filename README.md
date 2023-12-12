@@ -25,4 +25,4 @@ These are some of the technologies I'm familiar with:
 - **📚 Continue learning and exploring new technologies.**
 - **💻 Work on exciting web development projects and expand my portfolio.**
 
-Thanks for stopping by! Let's code together and create something amazing. 😄
+Thanks for stopping by!
