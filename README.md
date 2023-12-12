@@ -16,7 +16,7 @@ These are some of the technologies I'm familiar with:
 
 - **HTML & CSS**
 - **JavaScript**
-- **Ruby & Rails**
+- **Ruby & Ruby on Rails**
 - **PostgreSQL**
 - **Git & GitHub**
 
